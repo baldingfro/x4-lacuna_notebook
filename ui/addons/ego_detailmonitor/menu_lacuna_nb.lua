@@ -440,7 +440,7 @@ end
 -- init menu and register with Helper
 local function init()
 	--print("Initializing Encyclopedia")
-	debug("init | action=Initializing Lacuna Notebook")
+	trace("init | action=Initializing Lacuna Notebook")
 	Menus = Menus or { }
 	table.insert(Menus, menu)
 	if Helper then
@@ -930,9 +930,8 @@ function menu.onShowMenu(state)
 	for category in pairs(menu.data) do
 		if (category == "LNBCats") then
 			menu.addLNBEntries()
-		-- Need to move LNBCatsIndex from menu.data to say menu.lnbdata
 		elseif (category == "LNBCatsIndex") then
-			debug("Skipping cause LNBCatsIndex")
+			trace("menu.onShowMenu | action=Do nothing on category=" .. category)
 		elseif (category ~= "Factions") and (category ~= "Galaxy") and (category ~= "Blueprints") and (category ~= "FixedStations") and (category ~= "LNBCats") then
 			for subcategory, entry in pairs(menu.data[category]) do
 				--print("category: " .. tostring(category) .. ", subcategory: " .. tostring(subcategory))
@@ -1140,9 +1139,8 @@ function menu.onShowMenu(state)
 		end
 		if menu.mode then
 			menu.expanded[menu.mode] = true
-			debug("onShowMenu | action=beforeGetLibraryEntry")
 			menu.object = GetLibraryEntry(menu.library, menu.id)
-			debug("menu.onShowMenu | menu.object=" .. dump(menu.object))
+			trace("menu.onShowMenu | menu.object=" .. dump(menu.object))
 			menu.details.id = menu.param[5]
 			if (menu.mode ~= "Factions") and (menu.mode ~= "Licences") and (menu.mode ~= "Races") then
 				local locware = menu.id
@@ -2413,8 +2411,8 @@ function menu.onRowChanged(row, rowdata, uitable)
 				C.SetKnownRead(menu.object.component, true)
 			end
 		elseif menu.mode == "LNBCats" then
-			debug('menu.onRowChanged | menu.mode="LNBCats" ' ..
-				'desc="Since LNB entries are never unread, set as read code is skipped"')
+			trace('menu.onRowChanged | menu.mode="LNBCats" ' ..
+				"desc=Since LNB entries are never unread, 'mark as read' code is skipped")
 		elseif menu.library and menu.id then
 			local librarytype = menu.library
 			if menu.library == "moduletypes_other" then

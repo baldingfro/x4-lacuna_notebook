@@ -40,9 +40,9 @@ receive free updates.
 
 X4 includes a free DLC called "Ventures" that can be found by going to Settings >
 Online Features.  Ventures is an online feature where you dispatch ships that will
-accomplish missions in other players' games and come back to you with loot.  It sounds
-cool, but I think it's currently disabled by Egosoft.  For this guide, we will ignore
-it.
+accomplish missions in other players' games and you can get rewards from it.  The
+concept sounds cool but I think it's currently disabled by Egosoft.  For this guide, we
+will ignore Ventures.
 
 ### Major DLC's
 
@@ -62,6 +62,9 @@ Here are the Major DLC's in order of release:
 - Kingdom End | Boron Factions Focused | Released 2023-04-12
 - Timelines | Non-Sandbox Scenario Missions Focused | Released 2024-06-20
 
+The above DLC's are all included in the "Community of Planets Edition (2024)" bundle
+which goes on sale often and is an excellent value.
+
 ### Ship Pack DLC's
 
 Ship Pack DLC's are similar in content to Major ones, but are much smaller in size.
@@ -75,16 +78,17 @@ The following are the Ship Pack DLC's:
 The CoP CE Bundle is in this list because it does include two in-game items:
 
 - The Yasur ship
+  - In the past, the Yasur could be obtained for free by participating in the
+    "Mutliverse Team Seasons" but that has been cancelled and no replacement has been
+    announced.
 - Exclusive Paintmod: "Pearl Prospect"
 
-It does not have any story/quest content or adds new sectors.
+CoP CE does not have any story/quest content or adds new sectors.
 
 ### Recommendations
 
-If you like X4, I recommend all the DLC but if you have to choose, I also list them in
-my order of preference below.  Community of Planets is last because it doesn't add much
-in-game content and is a more expensive bundle.  If you want to support Egosoft though,
-go for it!
+If you like X4, I recommend all the DLC but if you have to choose, I've listed them in
+my order of preference below:  
 
 1. Cradle of Humanity
 2. Kingdom End
@@ -94,18 +98,45 @@ go for it!
 6. Timelines
 7. Community of Planets Collector's Edition (2024)
 
-## Gamestart Time! - Terran Cadet Start
+Community of Planets is last because it doesn't add much in-game content and is a more expensive bundle.  If you want to support Egosoft though, go for it!
 
-Start Open Universe > Cradle of Humanity DLC > Terran Cadet
+## Initial Settings
 
-## Settings
+There are many settings to configure but let's start with the ones below:
 
-There are a lot of settings in X4 but for this guide let's get the following ones
-configured:
+### Display Settings
 
-- 
+1. Display Mode
+    - To enable seamless switching with alt+tab'ing, use "Borderless Window"
+2. Adjust everything else to your preference
 
-Feel free to poke around some more and when you're done, it's tutorial time!
+### Graphics Settings
+
+1. Adjust to your preference
+
+### Sound Settings
+
+1. Adjust to your preference
+
+### Game Settings
+
+Game Settings contains several settings that aren't clear until you've spent some time
+in the game.  Here are the ones I recommend adjusting for now:
+
+1. Autosave Interval
+    - You will die often in this game so the shortest interval is recommended
+2. UI Scale
+    - Text to small or too big in menu's, adjust it here
+
+### Accessibility Settings
+
+1. Adjust to your preference
+
+### Controls
+
+The Controls section is what you'll visit most often as you figure out how you want to
+map the game controls to your devices.  Feel free to adjust anything you want but we
+will be revisiting Controls later in this guide.
 
 ## Tutorial Time - Everyone Loves Tutorials!
 
@@ -113,13 +144,17 @@ X4 offers several tutorials to help familiarize yourself with the game, but I do
 advise doing them all before starting the game.  They have a lot of information, which
 is good but it's like drinking from a fire hose and can be difficult to retain the
 knowledge without in-game context.  This guide will advice which tutorials to take
-next as you progress through it.
+as you progress through it.
 
 To start, complete the following tutorials:
 
 - 
 
 ## Adjusting Basic Controls
+
+## Gamestart Time! - Terran Cadet Start
+
+Start Open Universe > Cradle of Humanity DLC > Terran Cadet
 
 
 ## About Game Performance

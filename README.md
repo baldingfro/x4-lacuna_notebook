@@ -27,9 +27,10 @@ n'here:
 
 ## Installation
 
-Clone the repo into $X4_INSTALL_DIR/extensions/lacuna_nb
+- Clone the repo into $X4_INSTALL_DIR/extensions/lacuna_nb
+- Download the repo as a zip and extract into $X4_INSTALL_DIR/extensions/lacuna_nb
 
-Publishing the mod to NexusMods is planned.
+Publishing the mod to Nexus Mods is planned.
 
 ## Usage
 
@@ -52,20 +53,26 @@ top-level bar that will open Lacuna Notebook.
 
 ## Technical Information About Lacuna Notebook
 
+- There are no dependencies
 - It is a copy of the Encyclopedia Menu with custom code bolted on
 - Uses page range 698008001 - 698008999
 - There are no AI/logic scripts in this mod and nothing should run when it's closed
 - Content is populated using a script to convert the Markdown files to text in 0001.xml
-
-## Changelog
-
-Coming soon.
 
 ## Contributing
 
 Got stuff to change or add, submit an issue or a pull request.  This is my first public
 repo so it's all new to me.  You can also find me in the Egosoft Discord if you have
 questions before submitting anything.
+
+## Contact
+
+Got questions, problems, or feedback, open an issue or find me on the Egosoft Discord in
+the #x4_modding channel.
+
+## Changelog
+
+Need to make changes first.
 
 ## License
 

@@ -19,10 +19,12 @@ More information can be viewed in the entries:
 - Customizing Entries
 
 This notebook is my first mod and is basically a copy of the Encyclopedia with code
-bolted on for Lacuna Notebook.  All the functionality and content of the vanilla Encyclopedia is in Lacuna Notebook also.
+bolted on for Lacuna Notebook.  All the functionality and content of the vanilla
+Encyclopedia is in Lacuna Notebook also.
 
 There is so much content I want to add that the organization of it will likely change
-as more entries get added.  I also want to make sure this mod doesn't break anything but no refunds :)!  Expect lots, no, tons of typo, grammatical, and formatting errors to, no
+as more entries get added.  I also want to make sure this mod doesn't break anything but
+no refunds :)!  Expect lots, no, tons of typo, grammatical, and formatting errors to, no
 wait, too I mean...
 
 If wondering where to go next, here are a couple of categories to visit next:
