@@ -15,6 +15,8 @@ n'here:
 
 [LNB Markdown Files](https://github.com/baldingfro/lacuna_nb/tree/main/docs/md_files)
 
+Currently, LNB is a heavy work-in-progress and is missing a lot of planned content.
+
 ## Features
 
 - Includes all the content and features of the in-game Encyclopedia
@@ -35,7 +37,7 @@ Publishing the mod to Nexus Mods is planned.
 ## Usage
 
 After the mod is installed, a new button with the letters "LNB" will appear in the
-top-level bar that will open Lacuna Notebook.
+same top-level bar used to open the Encyclopedia.
 
 - Pressing this button leads to joy
 

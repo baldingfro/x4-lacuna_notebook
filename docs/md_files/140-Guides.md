@@ -1,4 +1,4 @@
-# Guides
+# Misc Guides
 
 ## How to be a Jetpack professional in X4
 
@@ -33,3 +33,9 @@ Keep trading between the same stations
 ## Speed up Crew Leveling
 
 Keep trading between the same stations
+
+## Fixed Font Markdown Table Test
+
+|1234567890|1234567890|1234567890|
+|----------|----------|----------|
+|a2b4c6d8e1|1!3@5#7$9%| 2 4 6 8 0|
