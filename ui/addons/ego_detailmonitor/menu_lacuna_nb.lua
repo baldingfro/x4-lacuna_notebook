@@ -350,17 +350,25 @@ local function safeReadText(pageid, tid)
 end
 
 function menu.addLNBCats()
+	-- Creates tables under menu.data to hold all Lacuna Notebook (LNB) related data
+
+	-- Table for LNB data similar to Encyclopedia's data["Races"] or data["Ships"] 
 	menu.data["LNBCats"] = {}
-	-- TODO: Figure out why this index is needed in the data table
+	-- Unlike core Encyclopedia data, LNB data cannot be queried using the game engine
+	-- and instead we rely on a lookup table stored in LNBCatsIndex that maps the
+	-- category name to the page_id inside 0001.xml where the data can be retrieved
 	menu.data["LNBCatsIndex"] = {}
 
+	-- The loop increments by 2 because every category has two tid entries:
+	-- 1. The category name
+	-- 2. The page_id to use for the category data
 	for tid = 1, 100, 2 do
-		local success, result = safeReadText(LNBCATSPAGE, tid)
+		local success, catName = safeReadText(LNBCATSPAGE, tid)
 
 		if success then
-			menu.data["LNBCats"][result] = {}
-			menu.data["LNBCatsIndex"][result] = {}
-			menu.data["LNBCatsIndex"][result].page_id = ReadText(LNBCATSPAGE, tid + 1)
+			menu.data["LNBCats"][catName] = {}
+			menu.data["LNBCatsIndex"][catName] = {}
+			menu.data["LNBCatsIndex"][catName].page_id = ReadText(LNBCATSPAGE, tid + 1)
 		else
 			break
 		end

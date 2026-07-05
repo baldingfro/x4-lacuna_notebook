@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <content
-  id="lacuna_nb"
+  id="lacuna_notebook"
   name="Lacuna Notebook"
   author="BaldingFro"
   version="010"
-  date="2026-06-30"
+  date="2026-07-04"
   enabled="true"
   save="false"
   description="Lacuna Notebook is an expansion of the in-game Encyclopedia that includes guides and documentation on many of the game systems and mechanics.  It is designed to provide information to help players get the most out of their playthrough.  Research has shown it reduces alt-tabbing to lookup information by 69.67% (Nice!).">

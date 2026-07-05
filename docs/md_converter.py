@@ -133,7 +133,7 @@ def generate_xml():
         return
 
     # 5. Build Categories Section (Page ID 698008002)
-    categories_xml = "\n  \n"
+    categories_xml = "\n"
     categories_xml += '  <page id="698008002" title="Lacuna Notebook Categories" descr="" voice="no">\n'
 
     cat_t_id = 1

@@ -1,15 +1,16 @@
-# New Player Guide
+# New Player Guide [Part 1]
 
 ## Start Here
 
-Welcome to X4!  If you're not already aware, X4 is a complex games that includes many
-game mechanics.  Learning how to play this game will take patience and persistence.
+Welcome to X4!  If you're not already aware, X4 is a complex sandbox game that includes
+many game mechanics.  Learning how to play this game will take patience and persistence.
 For context, I streamed a few hundred hours of this game and even with the help of very
 knowledgeable viewers, I consider myself entry-level intermediate.
 
-This guide is designed to help you keep keep focus and stay on a pre-determined track
-that will gradually introduce game mechanics.  Be prepared for words, lots and lots of
-words.
+Because X4 is a sandbox, it can be easy to get lost in the beginning.  This guide has
+been designed to help you keep focus and stay on a pre-determined track that will
+gradually introduce game mechanics.  It's encouraged though that if you feel like going
+off and doing something else that interests you, then do eet.
 
 The entries are all in order so when you're done with one, move on to the next.  That
 means next up, we have Guide Requirements.
@@ -249,13 +250,14 @@ done.  You should have 185,000 credits in the bank so here are the upgrades I re
     + Makes docking significantly easier, I always get this on ships I fly
 5. Repair your ship if needed
 
-You should be able to afford the above upgrades, if not, prioritize the shield then the
-Docking Computer upgrades.
+You should be able to afford the above upgrades, if not, prioritize the Mk3 Shield then
+the Docking Computer Mk2 upgrades.
 
 Here are some important notes regarding ship upgrades:
 
-* Your ship can only be upgraded/repaired at Equipment Dock, Wharf, or Shipyard stations
-  + Generally, Equipment Docks are cheaper to upgrade at than Wharfs or Shipyards
+* Your ship can only be upgraded/repaired at Equipment Docks or Wharf stations
+  + Shipyards can only repair and upgrade Large (L) and Extra Large (XL) ships
+  + Generally, Equipment Docks offer cheaper for upgrades than Wharfs or Shipyards
 * There is no penalty for switching out equipment, feel free to swap out gear as much
   as you want without additional cost
 
@@ -272,7 +274,7 @@ If it feels fine, proceed to the next section, otherwise, hop on over to
 Settings > Controls > General and start making changes to see if you can find something
 that feels more natural.
 
-There are many controls to configure but here are the basic ones you can start with:
+There are many controls to configure but here are the most frequent ones to start with:
 
 * Steering: Digital
   + Strafe movement of your ship (WASD)
@@ -283,7 +285,8 @@ There are many controls to configure but here are the basic ones you can start w
   + Boost
   + Roll left/right
 * Modes
-  + Toggle Travel Drive
+  + Toggle Travel Mode
+  + Toggle Long Range Scan Mode
 * Target Management
   + Target Closest Hostile
   + Target Object
@@ -293,7 +296,7 @@ There are many controls to configure but here are the basic ones you can start w
 Feel free to configure other settings as you see fit, you can always return to this
 screen.
 
-## Terran Cadet Gamestart | Missions 4-?
+## Terran Cadet Gamestart | Missions 4-5
 
 ### Mission 4 | Solborn Militia | Wartime Economics
 
@@ -307,63 +310,9 @@ After the mission completes, proceed to Mission 5 when you're ready.
 
 An exclusive invitation, what could it be?  Fly to the designated station and after
 you dock, exit the ship and follow the yellow line.  If you noticed how much easier it
-was to dock, that's the powa of the Docking Computer Mk2.
+was to dock, that's the powah of the Docking Computer Mk2.
 
-After your meeting is done, onwards to Mission 6 when you're ready!
-
-### Mission 6 | Maintenance Duty
-
-Board your ship and perform repairs if needed.  Also, if you have the money, upgrade
-the Engine to a Travel Engine Mk2.  You lose out on boost stats, but the travel drive
-spool up to get to maximum speed is greatly reduced and the travel speed is
-significantly faster.  Both of those travel stats will be useful for this mission.
-
-This mission is focused on exploration and discovering a path to the objective.  The
-final destination is in a sector that is not shown on your map.  Here are some tips to
-help you discover the route to the final destination:
-
-#### Using Mission Guidance on the Mission Ticker
-
-* The Mission Ticker in the lower-left shows two important items:
-  + > Fly to: Oberth
-    - The top ">" line always shows the final destination
-  + >> Fly to: Asteroid Belt
-    - The bottom ">>" line is the next recommended sector to reach the final destination
-    - After entering the recommended sector, it will update to the next recommended one.
-      An example is after reaching Asteroid Belt, it will change to Jupiter for this
-      mission.
-    - The next recommended sector may not be in your map, which means you'll have to
-      find the gate to that sector.  The gate to the next recommended will always be in
-      the sector you're currently in, but there may be multiple gates.  You will have to
-      fly through each gate until you find the one that goes to the recommended sector.
-
-#### Discovering the Path to the Oberon
-
-Auto-pilot can be used to automatically fly to the last known sector en route to your
-destination.  For this mission, if you haven't done any additional exploration, then the
-auto-pilot will take you into Jupiter and then disengage because the gate for the next
-sector is not known.
-
-Now, the gate you need to go through next is in Jupiter, but you'll need to find where
-it is.  The easiest way to find a gate is to visually check around for an object that
-looks like a gate and then fly towards it.  If only there was something that could help
-us zoom in and see objects far away.
-
-Introducing Visual Enhancement Goggles, or VE Goggles for short.  Press y to zoom in
-and shift+y to zoom out.  If the zoom isn't working, make sure you're in Cockpit view
-and not External view.
-
-From here, rotate the ship around, zoom in with your googles, and see if you can spot an
-object that looks like a gate.  If you can't spot one, it may be too far aware so you'll
-need to explore the sector some more, zoom, and see if you can spot it.  Gates can be
-relatively close to each other, or spread far apart, it varies from sector-to-sector.
-
-There could be multiple gates also but only one of them will lead to the correct sector
-for your destination.  You'll have to fly through each one to map out where they go.
-
-Repeat the process until you reach the destination sector.  The X4 universe is huge so
-expect to repeat this process often until you get all the sectors and their connections
-mapped out.  That's part of the fun of exploration!
+After the meeting is done, onwards to Mission 6 when you're ready!
 
 ## Where to go from Here
 

@@ -39,9 +39,36 @@ There are several advantages to using Markdown files for this task:
 
 ##### Lists Format
 
-* Use two spaces for nested list items
+* For unordered lists, start with * first, then + second, - third for the sub items
+* For unordered lists, use two spaces to indent the sub items
+* Example:
+
+* First
+  + Second (two space indent)
+    - Third (two space indent)
+
+* For ordered list items, use four spaces to ident the sub items
+* Exmaple:
+
+1. two spaces
+    1. four spaces
+
+* Ordered and unordered list items can be mixed together if it increases readability
+* Examples:
+
+1. Ordered item
+    + Unordered sub item (four space indent)
+      - Unordered sub item (two space indent)
+
+* Start list
+  1. Step 1 (two space indent)
+  2. Step 2 (two space indent)
+      - Unordered item (four space indent)
+
 * When text in a list spans multiple lines, indent additional lines under the first
   letter of the first line
+  + So for this line that's going to go very long and definitely expand to the next line
+    we indent it under the first character
 
 ### In-Game Display of Text vs in the Markdown Document
 
