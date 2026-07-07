@@ -104,7 +104,22 @@ expensive bundle.  If you want to support Egosoft though, go for it!
 
 ## Initial Settings
 
-There are many settings to configure but let's start with the ones below:
+### About Game Performance
+
+The main hardware bottleneck for X4 is usually the CPU and not the GPU.  The CPU is
+responsible for handling the realtime simulation of X4's dynamic universe.  There are
+AI units all across universe engaging in resource gathering, production, trade, and
+war regardless of what the player is doing.  This is not a game where AI units spawn
+in when the player is near and despawn when they leave.
+
+If tweaking the display or graphics settings doesn't help with performance, then the CPU
+could be the bottleneck.  Performance troubleshooting is a complex topic and beyond
+the scope of this notebook though.  
+
+Egosoft does have the following post on their forum to help with performance
+troubleshooting:
+
+[X4 Performance Troubleshooting Suggestions](https://forum.egosoft.com/viewtopic.php?t=420952)
 
 ### Display Settings
 
@@ -125,10 +140,22 @@ There are many settings to configure but let's start with the ones below:
 Game Settings contains several settings that aren't clear until you've spent some time
 in the game.  Here are the ones I recommend adjusting for now:
 
-1. Autosave Interval
+1. Autosave Interval: 10 - 20 min
     + You will die often in this game so the shortest interval is recommended
-2. UI Scale
+2. Auto-Roll: Off
+    + Auto-Roll automatically levels you which sounds nice, but it gets in the way.  Use
+      the roll left/right keybinds for a better experience.
+3. Boost Toggle: Off
+    + Definitely a preference, but I find holding it down makes it easier to control
+      boost in this game
+4. Maintain Speed in Menus: On
+    + You will be in menus a lot and it gets real annoying each time your ship slows
+      down while in a menu
+5. UI Scale
     + Text to small or too big in menu's, adjust it here
+6. VE Goggles Auto Reset
+    + This setting will reset your zoom after a period of time which can be annoying if
+      you're watching something zoomed in
 
 ### Accessibility Settings
 
@@ -192,7 +219,7 @@ will start with "Terran Cadet."
 From the Start Menu, select "Start New Open Universe."  Select "Terran Cadet" under
 "Cradle of Humanity."
 
-### Mission 1 | Essential Work
+### Mission 1 | Terran Cadet | Essential Work
 
 Mission Tips:
 
@@ -210,7 +237,7 @@ After the mission has ended, you have time to explore before starting the next o
 When you're ready, proceed below to Mission 2.  You may also stumble into Mission 2
 during your exploration.  If you encounter a cutscene, then you've started Mission 2.
 
-### Mission 2 | Solborn Militia | Defenders of Sol
+### Mission 2 | Terran Cadet | Solborn Militia | Defenders of Sol
 
 Do the following tutorial:
 
@@ -230,7 +257,7 @@ Mission Tips:
 
 Feel free to explore some more, mission 3 can be started at any time.
 
-### Mission 3 | Solborn Militia | Optional Mission: Time for an Upgrade
+### Mission 3 | Terran Cadet | Solborn Militia | Optional Mission: Time for an Upgrade
 
 Start with the following tutorial:
 
@@ -267,10 +294,11 @@ section.
 ## Hotkeys Configuration Review
 
 By now, you may have an idea if the default keybinds work for you or not.  You'll be
-spending a lot of time flying your ship around and doing combat so it's improtant that
-the controls feel comfortable.
+spending a lot of time flying your ship around and doing combat so it's *really*
+important that the controls feel comfortable.  It really adds to the immersion when you
+stop thinking about what button to press but it takes awhile to get there also.
 
-If it feels fine, proceed to the next section, otherwise, hop on over to
+If the defaults feel fine, proceed to the next section, otherwise, hop on over to
 Settings > Controls > General and start making changes to see if you can find something
 that feels more natural.
 
@@ -298,60 +326,45 @@ screen.
 
 ## Terran Cadet Gamestart | Missions 4-5
 
-### Mission 4 | Solborn Militia | Wartime Economics
+### Mission 4 | Terran Cadet | Solborn Militia | Wartime Economics
 
 Mission Tips:
 
 * Prepare for mortal combat!  
 
-After the mission completes, proceed to Mission 5 when you're ready.
+After the mission completes, proceed to the next section when you're ready.
 
-### Mission 5 | Solborn Militia | An Exclusive Invitation
+### Intermission 1 | Tutorial | Player Inventory, Illegal Wares, and Messages
+
+Do the following tutorial:
+
+* Intermediate Tutorials
+  1. Inventory and Crafting
+      - Crafting can be ignored, it is a topic we'll cover later
+
+By now, you may of sucked up some illegal items from destroyed ships.  You also may of
+encountered the Police stating they are scanning your ship for illegal wares.  As the
+name implies, illegal wares are prohibited in law-abiding systems.
+
+For now, I recommend you drop any illegal wares that you may obtain.  It's not worth
+the Police harrassment and we'll cover what to do with them later.
+
+The other item I wanted to draw attention to is Messages which is a button on the same
+right-side bar as the Inventory.  You probably have some messages including offer(s)
+for quests.  Like, the illegal wares, we'll ignore any offers from these messages for
+now.  This is a big game and we still got plenty to cover.  Feel free to check for new
+messages every now-and-then.
+
+When you're ready, proceed to the next section.
+
+### Mission 5 | Terran Cadet | Solborn Militia | An Exclusive Invitation
 
 An exclusive invitation, what could it be?  Fly to the designated station and after
 you dock, exit the ship and follow the yellow line.  If you noticed how much easier it
 was to dock, that's the powah of the Docking Computer Mk2.
 
-After the meeting is done, onwards to Mission 6 when you're ready!
+After the meeting done, let's see you're in a huge time crunch and you have to get back
+to your ship ASAP.  The game has you covered: Press the Dock hotkey (Default: Shift+D)
+anytime to immediately return to your ship from anywhere on a station.
 
-## Where to go from Here
-
-## General Items
-
-* Mines cannot be picked up, they have to be self-destructed if you want to remove them
-* scan range is up to 200km away
-* What is the range of the tractor beam?
-* Make a note about the Signal Leak nearby, which could contain a hidden mission offerj
-* Document the different types of gates and highways
-
-## About Game Performance
-
-The main hardware bottleneck for X4 is usually the CPU and not the GPU.  X4 runs a
-realtime simulation of thousands (perhaps more) ships and stations with their own
-agendas and it's all done on the CPU.  This simulation is always running, no matter
-what is happening in the game.  Even in a massive battle with hundreds of ships flying
-around, all firing their guns and missiles, the game is still doing the universe
-simulation in the background in addition to simulating everything else going on within
-the player's vicinity.
-
-It is also worth noting that while X4 supports using multiple CPU cores, not all cores
-are utilized evenly.  Running a compelx simulation across multiple cores is very tricky
-because everything has to be in sync.  The safest and most stable route is to have
-one core bear the burden of the simulation and let the other cores handle other
-independent tasks.  This means though that despite having 16 cores, only one core is
-doing most of the work.  Even Unreal Engine 5 locks game simulation to a single thread
-(queue Unreal Engine performance mockery).
-
-### Troubleshooting Performance
-
-This is a whole giant topic that is beyond the scope of this Notebook.  Egosoft does
-have the following post on their forum to help with Troubleshooting:
-
-[X4 Performance Troubleshooting Suggestions](https://forum.egosoft.com/viewtopic.php?t=420952)
-
-### Performance Considerations with Mods - Move to Modding Category When its Created
-
-* Mods that add sectors or increase the number of ships or stations will also increase
-  the amount of things that need to be simulated on the CPU
-* Mods that add AI scripts will increase the CPU burden, especially if it's a script
-  that runs additional AI commands on every ship in the universe
+Onwards to the next section when you're ready!
