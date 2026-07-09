@@ -2,6 +2,6 @@
 <!DOCTYPE icons SYSTEM "icons.dtd" >
 <diff>
   <add sel="/icons" >
-      <icon name="tlt_lacuna_nb" texture="extensions\lacuna_nb\assets\textures\ui\top_level_tabs\tlt_lacuna_nb.tga" height="128" width="128"/>
+      <icon name="tlt_lacuna_nb" texture="extensions\lacuna_notebook\assets\textures\ui\top_level_tabs\tlt_lacuna_nb.tga" height="128" width="128"/>
   </add>
 </diff>

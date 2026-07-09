@@ -57,6 +57,10 @@ Excellent Detailed Steam Guide:
 * Osprey Vanguard in Company Regard
 * Perseus Vanguard in Silent Witness XII
 
+### Cradle of Humanity
+
+* Shinnamon's Gladius is abandoned by the gate to Savage Spur after he is kidnapped in the Terran Cadet plotline
+
 ### Kingdom End Ships
 
 * Group in Watchful Gaze

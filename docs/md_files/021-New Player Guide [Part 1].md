@@ -43,14 +43,14 @@ X4 includes a free DLC called "Ventures" that can be found by going to Settings 
 Online Features.  Ventures is an online feature where you dispatch ships that will
 accomplish missions in other players' games and you can get rewards from it.  The
 concept sounds cool but I think it's currently disabled by Egosoft.  For this guide, we
-will ignore Ventures.
+will ignore Ventures and I do not recommended enabling it for now.
 
 ### Major DLC's
 
 The following DLC are in the major category because they offer a large amount of
 content such as:
 
-* New gamestarts
+* New Game Starts
 * New ships
 * New sectors
 * New storylines/quests
@@ -108,9 +108,9 @@ expensive bundle.  If you want to support Egosoft though, go for it!
 
 The main hardware bottleneck for X4 is usually the CPU and not the GPU.  The CPU is
 responsible for handling the realtime simulation of X4's dynamic universe.  There are
-AI units all across universe engaging in resource gathering, production, trade, and
-war regardless of what the player is doing.  This is not a game where AI units spawn
-in when the player is near and despawn when they leave.
+persistent AI units all across universe engaging in mining, production, trade, war and
+other activities regardless of what the player is doing.  This is not a game where AI
+units spawn in when the player is near and despawn when they leave.
 
 If tweaking the display or graphics settings doesn't help with performance, then the CPU
 could be the bottleneck.  Performance troubleshooting is a complex topic and beyond
@@ -163,11 +163,17 @@ in the game.  Here are the ones I recommend adjusting for now:
 
 ### Controls
 
-The Controls section is what you'll visit most often as you figure out how you want to
-map the game controls to your devices.  Feel free to adjust anything you want but we
-will be revisiting Controls later in this guide.
+Here is the setting I recommend changing from the default:
 
-## Tutorial Time - We all Love Tutorials
+* Mouse Settings (In the Main Controls Screen)
+  1. Re-enable Mouse Steering: On
+      - Fixes the annoyance of re-enabling mouse sterring everytime you go into a menu
+
+The Controls settings (specifically General Controls) is what you'll visit most often
+as you figure out how you want to map the game controls to your devices.  Feel free to
+adjust anything else but we will be revisiting Controls later in this guide.
+
+## Tutorial Time
 
 X4 offers several tutorials to help familiarize yourself with the game, but I do not
 advise doing them all before starting the game.  They have a lot of information, which
@@ -193,11 +199,11 @@ help you with your first mission:
 There is a lot of information in those 8 tutorials (especially for the Map) but the good
 news is they can be accessed at anytime in the game by press h.
 
-## Terran Cadet Gamestart | Missions 1-3
+## Terran Cadet Game Start
 
-### Lore Context for the Gamestart
+### Lore Context for the Game Start
 
-X4 has a lot of lore (including novels) but for this gamestart, we'll keep it short to
+X4 has a lot of lore (including novels) but for this Game Start, we'll keep it short to
 jumpstart you into the X universe.  Here goes:
 
 * The X universe is populated by several alien races and each race also has several
@@ -205,21 +211,21 @@ jumpstart you into the X universe.  Here goes:
 * The main villians of X4 are the Xenon, a planet terraforming AI developed by the
   Terrans of Sol several hundred years ago that have gone rogue
   + The Xenon have mutated into space faring war machines that attack the other races
-* For the Terran Cadet Gamestart, you will be part of the Terran Protectorate faction
+* For the Terran Cadet Game Start, you will be part of the Terran Protectorate faction
 * The Terran Protectorate's highest priority is the desctruction of the Xenon and the
   prevention of another AI that could become another Xenon-like threat
   + They act independently and can be hostile towards other races if they intefere with
     their objectives
 
-### Terran Cadet Gamestart
+### Lets Start the Game
 
-X4 offers several Gamestarts, especially if you have all the DLC.  For this guide, we
+X4 offers several Game Starts, especially if you have all the DLC.  For this guide, we
 will start with "Terran Cadet."
 
 From the Start Menu, select "Start New Open Universe."  Select "Terran Cadet" under
 "Cradle of Humanity."
 
-### Mission 1 | Terran Cadet | Essential Work
+## Terran Cadet | Mission 1 | Essential Work
 
 Mission Tips:
 
@@ -237,7 +243,7 @@ After the mission has ended, you have time to explore before starting the next o
 When you're ready, proceed below to Mission 2.  You may also stumble into Mission 2
 during your exploration.  If you encounter a cutscene, then you've started Mission 2.
 
-### Mission 2 | Terran Cadet | Solborn Militia | Defenders of Sol
+## Solborn Militia | Mission 1 | Defenders of Sol
 
 Do the following tutorial:
 
@@ -257,7 +263,7 @@ Mission Tips:
 
 Feel free to explore some more, mission 3 can be started at any time.
 
-### Mission 3 | Terran Cadet | Solborn Militia | Optional Mission: Time for an Upgrade
+## Solborn Militia | Mission 2 | Optional Mission: Time for an Upgrade
 
 Start with the following tutorial:
 
@@ -291,7 +297,7 @@ Here are some important notes regarding ship upgrades:
 After the upgrades are complete, feel free to explore as usual or proceed to the next
 section.
 
-## Hotkeys Configuration Review
+## Intermission 1 | Hotkeys Configuration Review
 
 By now, you may have an idea if the default keybinds work for you or not.  You'll be
 spending a lot of time flying your ship around and doing combat so it's *really*
@@ -324,9 +330,7 @@ There are many controls to configure but here are the most frequent ones to star
 Feel free to configure other settings as you see fit, you can always return to this
 screen.
 
-## Terran Cadet Gamestart | Missions 4-5
-
-### Mission 4 | Terran Cadet | Solborn Militia | Wartime Economics
+## Solborn Militia | Mission 3 | Wartime Economics
 
 Mission Tips:
 
@@ -334,7 +338,7 @@ Mission Tips:
 
 After the mission completes, proceed to the next section when you're ready.
 
-### Intermission 1 | Tutorial | Player Inventory, Illegal Wares, and Messages
+## Intermission 2 | Tutorial | Player Inventory, Illegal Wares, and Messages
 
 Do the following tutorial:
 
@@ -357,7 +361,7 @@ messages every now-and-then.
 
 When you're ready, proceed to the next section.
 
-### Mission 5 | Terran Cadet | Solborn Militia | An Exclusive Invitation
+## Solborn Militia | Mission 4 | An Exclusive Invitation
 
 An exclusive invitation, what could it be?  Fly to the designated station and after
 you dock, exit the ship and follow the yellow line.  If you noticed how much easier it
