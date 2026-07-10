@@ -32,7 +32,9 @@
 
 * Use the Dock hotkey (Default: Shift+D) to immediately return to your ship from
   anywhere in a station
-* Ships flown by NPC pilots do not benefit from Docking Computer software
+* Ships flown by NPC pilots do not benefit from the following:
+  + Docking Computer software
+  + Long Range Scanner mk1/mk2
 * Autopilot can only be used if the player is piloting a ship, it cannot be used by
   NPC pilots
 * Only autopilot can be used to automatically travel to guidance points

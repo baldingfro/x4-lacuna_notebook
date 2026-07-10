@@ -13,7 +13,7 @@ to note if any entry has spoilers but sometimes it could be matter of opinion.
 All documentation in the Lacuna Notebook comes from Markdown files that be viewed
 n'here:
 
-[LNB Markdown Files](https://github.com/baldingfro/lacuna_nb/tree/main/docs/md_files)
+[LNB Markdown Files](https://github.com/baldingfro/x4-lacuna_notebook/tree/main/docs/md_files)
 
 Currently, LNB is a heavy work-in-progress and is missing a lot of planned content.
 

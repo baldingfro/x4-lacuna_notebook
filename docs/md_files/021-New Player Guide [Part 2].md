@@ -516,7 +516,7 @@ Careful also about leaving the Kukri out in the open.  Once it leaves Terran spa
 is much vulnerable to attack by hostile factions.  An often occurence in X4 is you'll
 get distracted by something and when you come back to check on your ship, it's been
 destroyed.  Having the Kukri dock at a station while you're doing other things will keep
-it protected.  Also, always be saving!
+it protected.  Also, always be saving also!
 
 ### Part 10 - Finding Energy Cells Sell Offers
 
@@ -615,70 +615,289 @@ to the next section.  Finally, woohoo!
 
 ### Part 1 - Navigating to Hewa's Twin V
 
-In addition to specific POIs, asking for directions can also be used to create a
-guidance mission to an unknown sector.  For this mission, we need to find a way to
-    "Nopileos' Fortune VI" which will show up with a Blue Dot on the ask for directions
-    screen
-    - This function only applies when you're given a mission and it has an unknown
-      sector in the route.  We could of used this method when navigating to the
-      Oberth, but I wanted you to do it the hard way first :p.
-    - You will have to use the Hard way if a mission isn't given for your destination
-  + Bottom Line changes from >> Find a way to: Napiloeos to >> Fly to: Napileos
-  + Once we got the directions, we can use Autopilot to get there or direct our NPC
-    Pilot to Explore the gate
-    - For some reason, the Autopilot won't automatically fly through the gate to an
-      unknown sector in this scenario, even though it worked with getting to the wharf
-      in the last mission, so each time you encounter a gate to an unknown sector,
-      you'll have to fly through it manually
-  + Eventually we hop on to a very familiar Highway
-  + Eventually make it to "Hewa's Twin V"
+In addition to specific POIs, asking for directions has an additional open that can be
+selected for the following scenario:
 
-### Part 2 - Claiming an Abandoned Medium Ship
+If you're on an active mission, and the gate for the next sector is unknown, a fifth
+option with a blue dot next to the destination sector's name will appear.  Selecting the
+fifth option will create a guidance mission to the gate for that sector.
 
-  + If you're using an NPC Pilot, he will notify you an abandoned ship was found when
-    you get near the objective
-    - If you're piloting, the game may show a prompt to "Start the capturing tutorial to
-      learn about taking over a ship."  This tutorial doesn't exist...
-  + Use the travel downtime to explore more with the Kukri
-  + Order your Kestral back to PHQ after capping M-class ship
-  + Escore the Prometheus ship after it launches from the station
-  + Navigate with Kukri during downtime
-  + Dock at PHQ, admire your beautiful M-sized ship
-  + Follow the yellow line
-  
-Do the following tutorials:
+If the gate for "Nopileos' Fortune VI" is unknown, we can ask for directions to reveal
+it.  We could of used this method when navigating to the Oberth in Terran space earlier,
+but I wanted you to do it the hard way first because asking for directions isn't always
+an option.
+
+Once we got the directions, we can use Autopilot to get there or direct our NPC Pilot to
+Explore the gate.  If Autopilot is used, unlike with navigating to a POI like a wharf,
+the ship won't automatically fly through a gate to an unknown sector.  You will have to
+fly through the gate manually.
+
+Remember to explore with the Kukri when you have downtime.
+
+Make your way to "Hewa's Twin V."
+
+### Part 2 - Claiming Your First Abandoned Ship
+
+When you arrive to Hewa's Twin V, make your way to the objecive marker in the sector.
+When you get closer to the marker, an abandoned medium ship will show up on the radar
+and one of two things should happen:
+
+1. If you're on autopilot or manually piloting the ship, a prompt stating you've found
+   an abandoned ship and to "Start the capturing tutorial to learn about taking over a
+   ship."  This tutorial doesn't exist...
+2. If the NPC Pilot is driving, there will be popup notification from the npc that an
+   abandoned ship has been found.  Press the interact button (Default: f) to see a list
+   of options for this notification.  Don't worry if it times out on you before you can
+   press f.
+3. No notification will happen but you can still claim the abandoned ship
+
+Open the map and close to the mission objective you should see a blue icon for a medium
+ship that is one of the following models:
+
+* Cerberus Vanguard
+* Gorgon Vanguard
+* Osprey Vanguard
+
+The model that appears will vary based on past actions (which I'm intentionally keeping
+vague) but don't worry if one is better than the other, they're all big upgrades to any
+ship you currently have.
+
+In preparation to claim the abandoned ship, do the following tutorial:
 
 * Intermediate Tutorials
   1. Signal Leaks
       - Includes ship & spacesuit scanning
 
+Claiming an abandoned ship requires finding it's signal leak like in the tutorial,
+except it'll be on the ship.  Here are the steps to claim the ship:
+
+1. Get near the abandoned ship
+2. Hop out into your space suit
+    + A space suit scanner is required for abandoned ship signal leaks
+3. Enable the space suit scanner
+4. Explore around the abandoned ship until you find the signal leak
+    + Finding it can take some time but it's definitely there
+5. Get close to the signal leak and claim the ship
+6. Request docking and hop aboard your shiny new medium ship!
+
+Since there is no NPC Pilot for the medium ship (we'll fix that later), you'll have to
+do the piloting and let your NPC Pilot drive the Kestral.
+
+Send the Kestral back to PHQ, we won't need it for the rest of this mission.  After you
+send it off, continue the mission (set it to active in the Mission Manager in case it's
+no longer active).
+
+After you have escorted the ship out of the system and completed the mission, navigate
+back to the PHQ wth autopilot.  While on autopilot, we can do some more exploring with
+the Kukri.
+
+When your ship reaches the PHQ, dock on it and admire your beautiful new medium ship
+from the outside.  Follow the yellow line when you're done admiring.
+
 ## Boso Ta | Mission 3 | Scientific Freedom
 
-* Research teleportation first
-* Get 1 crew for Medium ship
-  + On the way, Delilah should contact us
-  + Make crew pilot for Medium ship
-* Find a path from Terran space to Grand Exchange I with Kukri
-* Make note contraband can be stored in PHQ
-* Speak with Delilah and she will give you two additional plotlines to follow:
+Talk to our newly escaped friend Boso Ta and he will give us the opportunity to research
+new capabilities.  This research is optional and can be completed at any time.
+
+The Research menu can be opened by pressing Esc or opening the map, and pressing the
+button labeled "Research" in the button bar at the top of the screen.  There is no
+hotkey for it.
+
+I recommend researching Teleportation first. Selecting it will create a new task to
+aquire specific wares for the research and to also build a storage container at the PHQ
+to store those wares.
+
+The room Boso Ta is located in is the "Science Laboratory" and it has a unique
+interactable called the "Safe Deposit Storage."  You can use this deposit box to store
+any illegal wares safely.  The deposit box is only accessible from the PHQ so you'll
+need to make a trip back each time you want to store/retrieve illegal wares.
+
+Let's add a storage container to the PHQ but first, some important information about
+adding new modules to our station:
+
+Previously, when we added the dock, it was stated that its very important to not add
+the other dock types because they use wares that are only available in Terran space.
+Well, for the storage container and other modules, we don't have a choice and will have
+to go to Terran space to get the wares we need.  The lore reason is the Terrans
+developed their own technology while the other races formed a "commonwealth" that
+standardized a shared set of wares they use.  If the station teleported to Terran,
+getting those wares would be quicker, but the station had other plans.  
+
+Let's start construction of the storage container:
+
+1. Open "Property Owned" (Default: shift+P)
+2. Right-click on the PHQ and select "Plan Build"
+3. On the left-column of buttons, select "Storage Modules"
+4. Select "Container"
+5. Position the container so that's floating in space or snap it to one of the green
+   connection points on the station
+6. In the window on the right-side of the screen, click "Confirm module changes"
+7. Under "Build Resources", expand "Resources needed to complete changes"
+    + Computronic Substrate (Terran ware): 0/14
+    + Energy Cells (Universal ware): 0/103
+    + Silicon Carbide (Terran ware): 0/29
+    + The above items will be different if additional modules were added to the
+      construction queue
+8. The only ware we can find locally is Energy Cells, the other two will have to come
+   from Terran production stations in Terran space
+9. Skip "Manage buy offers for needed resources"
+    + The NPC Traders in Grand Exchange 1 and the surrounding sectors don't have access
+      to the needed Terran wares for construction so there's no point in allocating
+      funds to the station to pay for NPC deliveries
+
+With the construction confirmed, we just need to grab the wares and assign a builder to
+do the construction.
+
+From here, we're going to treat this research mission as an optional task to do during
+downtime like the Kukri exploration.  We've got some more story missions to do!
+
+## Funding the Purchase of our First Ship
+
+Now that we have a medium ship, that means we also have turrets.  Do the following
+tutorial to learn how to use them:
+
+* Intermediate Tutorials
+  1. Weapons and Turrets
+
+Board your ship, take off from the dock, and open the Quick Action Menu
+(Default: Enter) and do the following:
+
+1. Make sure all the status of all the turrets is set to "Armed"
+2. Set the mode for all the turrets to "Shoot missiles first"
+    + As the name implies, turrets will prioritize missiles first and then attack
+      anything else that is hostile
+
+Next, our medium ship doesn't have a pilot so let's fix that. Navigate the medium ship
+to the VIG Wharf in Windfall I Union Summit.
+
+The ship we want to buy is located at TEL Wharf in Profit Center Alpha.  If the Wharf
+hasn't been discovered yet, or you are unable to buy ships remotely from it, send the
+Kestral over to Profit Center Alpha.  Have it fly by the station to refresh the trade
+offer information or ask for directions to ask the locals where to find the Wharf.
+
+On the way to Windfall I Union Summit, Delilah should pop up with a message proposing
+the two of you meet up (or maybe before she already contacted you).  If nothing pops up,
+make sure you're not in the map and in cockpit view or external view.
+
+We're also at a point in the game that we'll want some credits to help us accomplish
+objectives later in the guide.  We'll sell equipment on our medium ship that we don't
+need right to generate some money.  Dock at the VIG Wharf, open the "Upgrade / Repair"
+screen and do the following:
+
+1. Select Weapons for your ship and sell the Torpedo Launcher(s)
+    + The Torpedo Launcher(s) should be in the last weapon slots.  Select "Empty" for
+      the slot to sell it
+    + Torpedos are only useful against capital ships and we won't be attacking those
+2. Select Software and uncheck "Police Scanner" to sell it
+    + Definitely don't need this right now
+3. Select Consumables and do the following
+    + Sell all the torpedos since we don't have a torpedo launcher
+    + Sell any Laser Tower Mk1/Mk2s and all the mines
+        - We don't need those for now and we can always buy them later
+    + Max out on flares
+4. Buy 1 Apprentice Service crew member
+5. Confirm the order
+
+The sale should get us enough credits to buy our first ship (we'll need about 600k).
+
+Promote the service crew member you purchased to a pilot.  Here are the instructions
+if you don't remember how:
+
+1. Bring up Current Ship Info using the hotkey (Default: Shift+Enter)
+2. In the top button bar under "Information", press the "Crew" button
+3. Near the bottom of this menu is a section labeled "Full Crew List" which lists the
+   crewmembers currently assigned to the ship
+4. Press the "+" next to the crew member to fully reveal all their stats.  We're looking
+   for the one with the best "Piloting" rating i.e. the most stars.
+5. Check both crew members and see who has the highest rating (we only care about
+   Piloting)
+6. Right-click on that crew member and select "Promote to Pilot"
+    + The other service crew member can help with repairs to your ship when systems
+      get damaged.  We'll explore more about crew members later.
+7. Congratulations, you now have an NPC pilot for your ship!
+8. For the NPC pilot to take over, you have to get your butt off the pilot's seat using
+   "Get Up from Chair" hotkey (Default: Ctrl+d)
+9. Once you leave your chair, the NPC pilot will show up from God knows where and plant
+   their butt on the pilot's seat
+
+Now, let's head to Mars to meet with Delilah.  Since it's a mission now, it means we
+can ask for directions if we don't have the path mapped out already, yay!  If the Kukri
+already mapped out, that means we can autopilot all the way there, yay!
+
+## Purchasing our First Ship
+
+While heading over to Mars, let's purchase a small trader also known as a courier ship.
+We'll need to purchase wares for the station from Terran space and our medium ship
+doesn't have enough storage to deliver all the wares in one-trip, but the courier will.
+
+The ship we'll purchase is a Magpie Vanguard - Courier from the TEL Wharf in Profit
+Center Alpha.  Assuming you found the station earlier and have current trade offer
+information, do the following to buy the ship:
+
+1. Right-click on the Wharf and select "Buy ships"
+2. From the first drop-down at the top, Select "Size S" for ship size
+3. From the second drop-down, select "Magpie Vanguard - Courier"
+4. From the third "Loadout" dropdown, select "Low Preset"
+
+Change the equipment to the following:
+
+1. Engines
+    + 2x Travel Mk2
+2. Thrusters
+    + Combat Mk1
+3. Small Shield Generators
+    + Change both slots to Shield Mk3 (or Mk2 if Mk3 is too expensive)
+4. Weapons
+    + Pulse Laser Mk1
+5. Software
+    + Keep the defaults except uncheck "Police Scanner"
+6. Consumables
+    + Max out flares
+7. All done, Add to Shopping List and Confirm Order
+8. There may be a Warning about not enough resources.  That is fine, it just means
+   production can't start immediately on the ship but it will start automatically when
+   the station gets the required wares.
+
+When construction begins on the ship, it will show up in the Property Owned menu.  When
+the ship is completed, send it over to Mars where your medium ship is also heading to
+meet up with Delilah.
+
+## Meeting with Delilah
+
+Speak with Delilah and go through each dialogue option.  She will give you two
+additional plotlines to follow:
+
   1. Terran Covert Operations
-      - Dal Busta mission
+      + Dal Busta mission
   2. Yaki Investigations
 
-## Terran Covert Operations | Mission 1 | Terran Preparations
+At this point, there are several things we can do:
 
-* Sell Kestral parts to raise funds for station items
-* While we're in Terran space, let's get the wares we need before doing Covert Ops
-  mission
-* Send Kukri back to Terran space to help buy wares if Medium ship's cargo can't hold
-  them all
-  + The Gorgon could hold everything but 6 silicon carbide
-* Buy Computronic Substrate & Silicon Carbide for station construction wares
-* Use Kestral to supply energy cells
-* Be sure to queue up transfer to Build Storage orders
-* Open Plan Build for station
-  + Under "Build Resources", expand "Resources needed to complete changes" and you'll
-    see your ships listed there as in-progress delivery of the wares
-* Get teleporter wares
+1. Explore some more with the Kestral and the Kukri
+    + I recommend to use the Kukri to explore the rest of the Terran sectors
+      - This includes finding new Terran sectors and also discovering the stations in
+        each sector
+    + I recommend to use the Kukri to explore the rest of the Grand Exchange sectors
+      - This includes finding new Terran sectors and also discovering the stations in
+        each sector
+    + The more stations we discover, the more trade offers we have access too
+2. Aquire the wares needed to build the container storage at our PHQ
+    + Don't forget to assign a Builder!
+3. Start a new mission
+4. Aquire the wares needed to do teleport research
+    + We can do this after the storage container is built at the PHQ
+
+Option #1 can be done during downtime so let's do Option #2 to aquire the wares needed
+to build the storage container at the PHQ.
+
+## Purchase Wares for the PHQ Terran Storage Container
+
+To recap, here is what we need:
+
+* Computronic Substrate (Terran ware): 0/14
+* Energy Cells (Universal ware): 0/103
+* Silicon Carbide (Terran ware): 0/29
+
+## Terran Covert Operations | Mission 1 | Terran Preparations
 
 ## Yaki Investigation | Mission 1 | A Pirate's Trail

@@ -70,3 +70,9 @@ If wondering where to go next, here are a couple of categories to visit next:
 ## Contributing Changes to the Notebook
 
 * WIP
+
+## Credits
+
+* Zakaluka
+* Egosoft Discord Channel Community
+    + Especially those in #x4_modding

@@ -191,6 +191,7 @@ help you with your first mission:
   3. Combat
 * Intermediate Tutorials
   1. Map
+      - Remember there is a Legend for "most" icons on the map
   2. Missions
   3. Spacesuit
   4. Object Deployment
