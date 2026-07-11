@@ -57,11 +57,21 @@ content such as:
 
 Here are the Major DLC's in order of release:
 
-1. Split Vendetta | Split Factions Focused | Released 2020-03-31
-2. Cradle of Humanity | Terran Factions Focused | Released 2021-03-16
-3. Tides of Avarice | Pirate & Scavaneger Factions Focused | Released 2022-03-14
-4. Kingdom End | Boron Factions Focused | Released 2023-04-12
-5. Timelines | Non-Sandbox Scenario Missions Focused | Released 2024-06-20
+1. Split Vendetta
+    + Split Factions Focused
+    + Released 2020-03-31
+2. Cradle of Humanity
+    + Terran Factions Focused
+    + Released 2021-03-16
+3. Tides of Avarice
+    + Pirate & Scavaneger Factions Focused
+    + Released 2022-03-14
+4. Kingdom End
+    + Boron Factions Focused
+    + Released 2023-04-12
+5. Timelines
+    + Non-Sandbox Scenario Missions Focused
+    + Released 2024-06-20
 
 The above DLC's are all included in the "Community of Planets Edition (2024)" bundle
 which goes on sale often and is an excellent value.
@@ -71,8 +81,12 @@ which goes on sale often and is an excellent value.
 Ship Pack DLC's are similar in content to Major ones, but are much smaller in size.
 The following are the Ship Pack DLC's:
 
-1. Hyperion Pack | Main Addition is Hyperion Expeditionary Ship | Released 2025-02-20
-2. Envoy Pack | Main Addition is Envoy Stealth Frigate | Released 2025-09-10
+1. Hyperion Pack
+    + Main Addition is Hyperion Expeditionary Ship
+    + Released 2025-02-20
+2. Envoy Pack
+    + Main Addition is Envoy Stealth Frigate
+    + Released 2025-09-10
 
 ### Community of Planets Collector's Edition (2024)
 

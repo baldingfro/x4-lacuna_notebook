@@ -8,4 +8,5 @@
   enabled="true"
   save="false"
   description="Lacuna Notebook is an expansion of the in-game Encyclopedia that includes guides and documentation on many of the game systems and mechanics.  It is designed to provide information to help players get the most out of their playthrough.  Research has shown it reduces alt-tabbing to lookup information by 69.67% (Nice!).">
+  <dependency version="900" />
 </content>

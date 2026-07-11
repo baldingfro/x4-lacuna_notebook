@@ -53,6 +53,9 @@
 * Travel Drive can be used to match speeds with targets that are faster than your
   standard engine speed
 * Hold down shift while rotating modules to rotate them in 15 degree increments
+* The Explore command, while very slow to do actual exploration, is a great way to gain
+  experience for the Piloting skill
+  + Experience is gained for Piloting each time a station is discovered
 
 ## Veteran Tips
 
@@ -62,3 +65,5 @@
   space (350km)
 * Disable maroon protection to stop "Wait for Signal" when NPC Pilot takes over, risks
   him taking off without you
+* Pirate bases are often beyond the sector's edge
+  + Tailing pirate base traders is a reliable way to find the base

@@ -55,7 +55,8 @@ same top-level bar used to open the Encyclopedia.
 
 ## Technical Information About Lacuna Notebook
 
-* It is a copy of the Encyclopedia Menu with custom code bolted on
+* It is a copy of the X4 9.00 Encyclopedia Menu with custom code bolted on
+* Requires X4 v9.00
 * No dependencies
 * Uses page range 698008001 - 698008999
 * No AI/logic scripts in this mod and nothing runs when it's closed

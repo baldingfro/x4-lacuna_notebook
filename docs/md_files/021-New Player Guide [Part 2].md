@@ -768,12 +768,12 @@ Board your ship, take off from the dock, and open the Quick Action Menu
       anything else that is hostile
 
 Next, our medium ship doesn't have a pilot so let's fix that. Navigate the medium ship
-to the VIG Wharf in Windfall I Union Summit.
+to the VIG Wharf in Windfall I Union Summit.  Also, send the Kestral to the VIG Wharf.
 
 The ship we want to buy is located at TEL Wharf in Profit Center Alpha.  If the Wharf
 hasn't been discovered yet, or you are unable to buy ships remotely from it, send the
-Kestral over to Profit Center Alpha.  Have it fly by the station to refresh the trade
-offer information or ask for directions to ask the locals where to find the Wharf.
+Kestral over to Profit Center Alpha instead.  Have it fly by the station to refresh the
+trade offer information or ask for directions to ask the locals where to find the Wharf.
 
 On the way to Windfall I Union Summit, Delilah should pop up with a message proposing
 the two of you meet up (or maybe before she already contacted you).  If nothing pops up,
@@ -798,7 +798,15 @@ screen and do the following:
 4. Buy 1 Apprentice Service crew member
 5. Confirm the order
 
-The sale should get us enough credits to buy our first ship (we'll need about 600k).
+For the Kestral, open the "Upgrade / Repair" screen and do the following:
+
+1. Select Engines and switch to a 2x Travel Mk2
+    + It will slow the Kestral down but we get several hundred thousand credits back
+      which is more valulable at this point
+
+The sales should get us enough credits to buy our first ship (we'll need about 600k)
+and few hundred thousand extra which we'll need to purchase the wares (they're not
+cheap!).
 
 Promote the service crew member you purchased to a pilot.  Here are the instructions
 if you don't remember how:
@@ -867,9 +875,8 @@ meet up with Delilah.
 Speak with Delilah and go through each dialogue option.  She will give you two
 additional plotlines to follow:
 
-  1. Terran Covert Operations
-      + Dal Busta mission
-  2. Yaki Investigations
+1. Terran Covert Operations
+2. Yaki Investigations
 
 At this point, there are several things we can do:
 
@@ -890,14 +897,164 @@ At this point, there are several things we can do:
 Option #1 can be done during downtime so let's do Option #2 to aquire the wares needed
 to build the storage container at the PHQ.
 
-## Purchase Wares for the PHQ Terran Storage Container
+## Purchase Wares for PHQ Storage Container & Teleporter Research
 
 To recap, here is what we need:
 
-* Computronic Substrate (Terran ware): 0/14
-* Energy Cells (Universal ware): 0/103
-* Silicon Carbide (Terran ware): 0/29
+1. Computronic Substrate (Terran ware): 0/14
+    + Can be purchased from Computronic Substrate Fab station or Orbital Supply Base
+    + Carried by High-Tech Traders/Freighters
+2.* Energy Cells (Universal ware): 0/103
+    + Can be purchased from Solar Power Plant
+    + Carried by Energy Traders/Freighters
+3.* Silicon Carbide (Terran ware): 0/29
+    + Can be purchased from Silicon Carbide Mill station or Orbital Supply Base
+    + Carried by High-Tech Traders/Freighters
+
+If you don't remember how to enable the Trade Filter, review the following tutorial:
+
+* Intermediate Tutorials
+  + Trading
+
+The Magpie has enough storage to deliver the required wares to the PHQ Build Storage
+in one-trip.  Use the Trade Filter to buy Computronic Substrate and Silicon Carbide in
+Terran Space.  If no trade offers show up, it could mean a couple of things:
+
+1. A station selling the ware has not been discovered
+2. Stations that sell the ware have 0 inventory to sell
+    + This could be caused by a shortage of a resource the station needs to produce
+      the ware
+
+If nothing shows up, we can follow a High-Tech Trader/Freighter to a station.  Unlike
+Energy Cells which have dedicated Energy Traders, Computronic Substrate and Silicon
+Carbide do not have dedicated traders.  Instead, transporters carrying them along with
+other high-tech/tier wares have High-Tech in the name.  Unfortunately this means you
+you can't single out specific traders carrying those specific wares, but instead hope
+the High-Tech trader you follow leads you to the station you're looking for.
+
+If no Energy Cells can be purchased in Terran space, you can always queue up a trade
+on a station near the PHQ.
+
+Get all the purchases queue'd up and then transfer everything to the PHQ Build Storage.
+Again, don't forget to get a Builder assigned.
+
+After the storage container has been built, you should aquiring the wares needed for
+the teleport research which are:
+
+1. Advanced Electronics (Commonwealth ware): 100
+    + Can be purchased from Advanced Electronics Factory
+    + Carried by High-Tech Traders/Freighters
+2. Energy Cells (Universal ware): 2000
+    + Can be purchased from Solar Power Plant or Trade Station
+    + Carried by Energy Traders/Freighters
+
+Since Advanced Electronics is a Commonwealth ware, you should be able to find it sold
+at a station near the PHQ.
+
+Once the research wares have been obtained, transfer them to the
+**Grand Exchange 1 Storage!**  Do not transfer them to the Build Storage, these are
+research wares, not construction wares.  By transfering them to the Grand Exchange I
+Storage, they'll go into that storage container we just built for the PHQ.
+
+Once the wares are delivered, go to the Research menu and press the button
+"Start Research" for teleporation.  The Magpie can be repurposed for exploration until
+we need it to trade again.
 
 ## Terran Covert Operations | Mission 1 | Terran Preparations
 
-## Yaki Investigation | Mission 1 | A Pirate's Trail
+Now that we got that done with, let's start our next mission.  We have a few to choose
+from but we'll start with Terran Covert Operations.  Select the mission and set it to
+active.
+
+The mission directs you to investigate Hatikvah Free League (HAT) politics which is done
+by accepting a mission offer to "Join Hatikvah's Trade Revolution."  The mission gets
+offered if you've traversed through "Hatikvah's Choice I" which we did during the
+roundtrip on the Core Highway Network.  
+
+Open the Mission Offers menu and there should be a mission for "Join Hatikvah's Trade
+Revolution."  If it's not there, visit Hatikvah's Choice I and it should pop up after
+entering the sector.  Accept the mission once you have it.
+
+After the mission is accepted, go to the Mission Manager menu (Default: Shift+M) and set
+"Join Hatikvah's Trade Revolution" mission to active.
+
+Complete the objectives and you'll receive an offer to join the Hatikvah Free League.
+
+## Hatikvah's Trade Revolution | Mission 1 | Snooping Around
+
+Talk to Dal Busta if you haven't already and he'll offer you a mission.  He also
+recommends a Scout for the mission but the medium ship will work fine.
+
+This mission requires scanning a data leak on a Scale Plate Pact station.  It's not
+mentioned, but Dal Busta actually updates your map with the location of SCA stations
+in one or more Silent Witness sectors.
+
+To see the stations, open the map, and filter for "sca".  You'll see at least one
+station in a Silent Witness sector.  You may also see a base but it's the station we're
+interested in.  
+
+Choose the closest sca station and navigate over to it.  If you don't remember how to
+find a Signal Leak, run the Intermediate tutorial "Signal Leaks".  
+
+On a side note about 15 minutes after the mission objective changes to
+"> Scan: Scale Plate Pact data leak", a message will come in with a sector that contains
+a station to scan.  We can ignore it.
+
+## Hatikvah's Trade Revolution | Mission 2 | Going Offensive
+
+Asks us to aquire:
+
+1. Spacesuit Bombs
+    + Can be aquired at Pirate Stations or Black
+    + Cost around 95k credit
+2. Bomb Launcher
+    + Can be aquired at any Trader's Corner on a station
+      - Sometimes wares are out of stock so you may have to check more than one Trader's
+        Corner
+      - Each dock at a station includes a Trader's Corner so multiple docks at a station
+        means multiple ones you can check
+    + Cost around 188k credits
+3. Need about 400k credits total to buy everything
+
+* Needed to sell the Magpie to get enough credits for everything
+  + If we go the crafting route, we can keep the Magpie
+  + Should I mention trick to sell all equipment and then sell ship for maximum credits?
+
+After the bombs have been aquired, head over to the station objective.  Placing the
+bombs is simple, just head out in your spacesuit, make sure the bombs are selected as
+your weapon, and fire them both at the designated target point.
+
+Since we have teleport now, instead of needed to dock to re-enter our ship, we can
+teleport to it instead.
+
+Now we wait for the target freighter to dock at the station.  It will take several
+minutes so just be patient.
+
+After the cinematic happens, continue with the mission objective to meet Reen Omara.
+
+## Hatikvah's Trade Revolution | Mission 3 | By Invitation Only
+
+You will be asked to undock and then to aquire a loadstone.  Conveniently, we can buy a
+loadstone for about 55 credits at Trader's Corners.  So dock with "HAT Argon Trading
+Station" and check each of the 3 Trader's Corner until you find one with a loadstone.
+If none of them have a loadstone, check the Trader's Corners at another station in the
+sector.
+
+Complete the objectives after the loadstone has been aquired.  
+
+## Hatikvah's Trade Revolution | Mission 4 | Wayward Drones
+
+## Hatikvah's Trade Revolution | Mission 5 | The Hand-Off
+
+## Hatikvah's Trade Revolution | Mission 6 | Breakdown
+
+After destroying the SCA Fighter, head towards the escape pods and follow them at a
+close distance until some dialogue is triggered from Reen.
+
+After picking up Dal Busta's blackbox, this plotline is concluded.
+
+## Boso Ta | An Odd Situation
+
+* Within 20 minutes,
+* Dock at the PHQ
+* Head over to the Science Laboratory
