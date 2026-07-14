@@ -12,25 +12,20 @@ been designed to help you keep focus and stay on a pre-determined track that wil
 gradually introduce game mechanics.  It's encouraged though that if you feel like going
 off and doing something else that interests you, then do eet.
 
-The entries are all in order so when you're done with one, move on to the next.  That
-means next up, we have Guide Requirements.
+The guide is divided into multiple parts covering several plotlines (story missions).
 
 ## Guide Requirements
 
 This guide requires the following DLC:
 
-* Cradle of Humanity DLC (Terran Faction)
+* Cradle of Humanity DLC (Terran Factions)
 
 I wanted to do a guide that required only the base game, but none of the missions
-offered with it are a good showing for new X4 players in my opinion.
-
-If you only have the base game, this guide can still be followed but the sections
-involving the Terran DLC storyline will have to be skipped.  Also, nearly all the
-entries in Lacuna Notebook outside this guide apply to the base game.
+offered with it were good candidates for a new player guide in my opinion.
 
 ## DLC Overview
 
-If you have all the DLC, you can skip to the next part of the guide.
+If you have all the DLC, you can skip to the next entry.
 
 X4 has several DLC's available that add a substantial amount of content.  The DLC is
 not required to receive updates for the base game though.  Nearly all new and changed
@@ -160,13 +155,12 @@ in the game.  Here are the ones I recommend adjusting for now:
     + Auto-Roll automatically levels you which sounds nice, but it gets in the way.  Use
       the roll left/right keybinds for a better experience.
 3. Boost Toggle: Off
-    + Definitely a preference, but I find holding it down makes it easier to control
-      boost in this game
+    + I find holding it down makes it easier to control boost in this game
 4. Maintain Speed in Menus: On
     + You will be in menus a lot and it gets real annoying each time your ship slows
       down while in a menu
 5. UI Scale
-    + Text to small or too big in menu's, adjust it here
+    + UI Text to small or too big in menu's, adjust it here
 6. VE Goggles Auto Reset
     + This setting will reset your zoom after a period of time which can be annoying if
       you're watching something zoomed in
@@ -357,6 +351,8 @@ After the mission completes, proceed to the next section when you're ready.
 
 Do the following tutorial:
 
+* Basic Tutorials
+  1. Walking and Interaction
 * Intermediate Tutorials
   1. Inventory and Crafting
       - Crafting can be ignored, it is a topic we'll cover later

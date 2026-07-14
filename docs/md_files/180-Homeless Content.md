@@ -1,14 +1,39 @@
 # Homeless Content
 
-## Topic Ideas
+## Tutorial Supplements / Fundamentals
 
-* Low-Attention vs High-Attention
+1. Map Guide
+    + Filtering for specific items
+    + Legend
+    + General filters
+2. Ship Navigation
+    + NPC Pilot vs Player Pilot
+      - Only player can use Autopilot and Long Range Scanner or Ship Scanner
+    + Use of Guidance Missions
+      - Demonstrate using shift to change z-axis position for guidance points
+3. Mission Manager
+    + Plot Missions
+    + Sector Missions
+      - Missions are offered by stations and they must be in radar range to see the
+        missions they're offering
+    + Guild Missions
+4. Faction Relations / Diplomacy
+5. Managing Ship Orders and Behaviors for NPC Pilots
+6. Looting and Crafting
+7. Crew
+8. Low-Attention vs High-Attention
+
+## Other Ideas
+
+* Document personal wares
+  + Where to obtain them
+  + All crafting recipes
 * How sectors are laid out and the concept of the sector core
-* Diplomacy
 * What this guide isn't
   + Min-maxing strats
   + How to game the system by revealing the mechanics that should normally be outside
     the player's knowledge
+* Go over Global Standing Orders
 
 ## General Items
 
@@ -56,6 +81,8 @@
 * The Explore command, while very slow to do actual exploration, is a great way to gain
   experience for the Piloting skill
   + Experience is gained for Piloting each time a station is discovered
+* Accepting missions to unknown sectors allows the use of asking for directions to find
+  a path there
 
 ## Veteran Tips
 

@@ -163,13 +163,13 @@ Proceed to the next section after the cinematic.
 
 ## Boso Ta | Mission 1 | Displaced
 
-### Intro
+## Intro
 
 This mission introduces many concepts including ones I've added as part of the guide.
 Since a lot is covered, I've made a walkthrough to help learn the new concepts in
 manageable chunks.
 
-### Part 1 - Welcome to Grand Exchange I
+## Part 1 - Welcome to Grand Exchange I
 
 Just when you thought everything was going smooth, bam, you get transported halfway
 across the universe!  Open your map and you'll see you're in "Grand Exchange I" now.
@@ -183,7 +183,7 @@ After you arrive to your new ship, you'll be tasked with building a Dock for the
 asteroid station that transported with you.  As a bonus, you own an additional ship now
 which means you have a fleet of two ships!
 
-### Part 2 - The Player Headquarters (PHQ)
+## Part 2 - The Player Headquarters (PHQ)
 
 The asteroid station is now called "Grand Exchange 1 Headquarters" on the map.  This
 headquarters is also known by another name, the PHQ or "Player Headquarters."  I'll
@@ -208,7 +208,7 @@ purchasing a plot and building the station within the plot.  Think of the PHQ as
 a pre-allocated plot and instead of building in open space, everything is built around a
 giant asteroid.
 
-### Part 3 - Building a Dock Module for the PHQ
+## Part 3 - Building a Dock Module for the PHQ
 
 Do the following tutorial:
 
@@ -263,7 +263,7 @@ The offer is open for NPC Traders to deliver the Energy Cells and we'll know if 
 been delivered if the progress line changes to a white color.  But we're going to beat
 them to get the Energy Cells delivered first, right?  Right...?
 
-### Part 4 - Faction Relations and Who Doesn't Like You
+## Part 4 - Faction Relations and Who Doesn't Like You
 
 * References:
   + [Egosoft Wiki | Reputation Effects](https://wiki.egosoft.com/X4%20Foundations%20Wiki/Manual%20and%20Guides/Objects%20in%20the%20Game%20Universe/Factions/%28Player%29/Reputation%20Effects/)
@@ -299,7 +299,7 @@ pink and red.
 There are several ways to improve faction relations and a diplomacy system as well.  We
 will cover those topics later as we have enough to do at the moment.
 
-### Part 5 - Using Comms to Ask for Directions
+## Part 5 - Using Comms to Ask for Directions
 
 To get Energy Cells, we need to find a "Solar Power Plant" or a "Trading Station."
 Trading Stations are much more rare to find so we will focus on finding Solar Power
@@ -354,7 +354,7 @@ yourself like you did previously to find the Oberon.
 So take over the ship, put on the Autopilot, and watch the scenery as it takes you to
 the directed Wharf in Unknown Space.
 
-### Part 6 - Lookout for Builders and Solar Power Plants
+## Part 6 - Lookout for Builders and Solar Power Plants
 
 While the Autopilot is navigating there, open the map and watch for the following:
 
@@ -373,7 +373,7 @@ but if you see a non-hostile Builder, immediately right-click on it and select:
 It does not matter if you don't have all the wares needed to build the dock module, the
 Builder will wait at the station until you do.
 
-### Part 7 - Deploying a Sattelite to Maintain Trade Information for Wharf
+## Part 7 - Deploying a Sattelite to Maintain Trade Information for Wharf
 
 Eventually the Autopilot will take you to the sector "Windfall I Union Summit" and park
 you near the "VIG Vigor Syndicate Wharf."  Along the way, we discovered a couple of new
@@ -421,7 +421,7 @@ information timer expiring on it.
 Now, let's take a roadtrip on the Highway which we've only see in the "Highways and
 Gates" Basic tutorial.  When you're ready, proceed to the next section.
 
-### Part 6 - Roadtrip to the Core Highway Network
+## Part 6 - Roadtrip to the Core Highway Network
 
 The Core Highway isn't an option when asking for directions so we'll have to find it
 manually.  The good news is the Highway is in an adjacent sector to the sector we're in,
@@ -439,7 +439,7 @@ sectors.
 Now, while we're cruising on the Highway, let's check on our Kukri that got left back
 in Terran Space when we got teleported with the Asteroid Station.
 
-### Part 8 - Using the Kukri NPC Pilot to Explore
+## Part 8 - Using the Kukri NPC Pilot to Explore
 
 Luckily (or was it planned...), we got an NPC Pilot for our Kukri so we can still
 control it even halfway across the Universe.  While we're cruising on the Highway, let's
@@ -463,7 +463,7 @@ got three methods we can try:
 3. Follow NPC Trader ships and let them lead you to a gate
     + This is the method I recommend and we'll use for the Kukri
 
-### Part 9 - Following NPC Traders to Find Gates in an Unexplored Sector
+## Part 9 - Following NPC Traders to Find Gates in an Unexplored Sector
 
 Here are steps you can follow to use NPC Trader ships to find Gates:
 
@@ -518,7 +518,7 @@ get distracted by something and when you come back to check on your ship, it's b
 destroyed.  Having the Kukri dock at a station while you're doing other things will keep
 it protected.  Also, always be saving also!
 
-### Part 10 - Finding Energy Cells Sell Offers
+## Part 10 - Finding Energy Cells Sell Offers
 
 Do the following tutorials:
 
@@ -550,7 +550,7 @@ To find a station selling Energy Cells, do the following:
 If you no sell offers for Energy Cells popped up, proceed to the next section, otherwise
 you can optionally skip it and go to the section after.
 
-### Part 11 - Following NPC Energy Traders to Find Solar Power Plant Stations
+## Part 11 - Following NPC Energy Traders to Find Solar Power Plant Stations
 
 In the very rare case no sell offers for Energy Cells can be found, we do have another
 familiar method we can employ to find one.  Similar to how we followed traders to find
@@ -569,7 +569,7 @@ then issue the follow order again to keep following it.
 
 Once a Solar Power Plant has been found, proceed to the next section.
 
-### Part 12 - Purchasing and Delivering Energy Cells to Complete the Dock Module
+## Part 12 - Purchasing and Delivering Energy Cells to Complete the Dock Module
 
 Do the following tutorials:
 
@@ -602,7 +602,7 @@ PHQ's Build Storage:
 
 While the Dock module is constructing, try exploring some more with the Kukri.
 
-### Part 13 - Dock Module Completed
+## Part 13 - Dock Module Completed
 
 When the Dock Module is completed, we'll be contacted by Boso Ta to land on the newly
 created dock for our PHQ.  Land the Kestral on the dock and look around, you've just
@@ -784,19 +784,26 @@ objectives later in the guide.  We'll sell equipment on our medium ship that we 
 need right to generate some money.  Dock at the VIG Wharf, open the "Upgrade / Repair"
 screen and do the following:
 
-1. Select Weapons for your ship and sell the Torpedo Launcher(s)
-    + The Torpedo Launcher(s) should be in the last weapon slots.  Select "Empty" for
-      the slot to sell it
-    + Torpedos are only useful against capital ships and we won't be attacking those
+1. Select Weapons for your ship and replace the Torpedo Launcher(s) with Tracking
+   Launcher(s)
+    + Each ship should have at least one Torpedo Launcher but the slot they're in varies
+    + Torpedos are anti-capital which won't be nearly as useful to us as anti-ship
+      missile weapons for this guide
 2. Select Software and uncheck "Police Scanner" to sell it
     + Definitely don't need this right now
 3. Select Consumables and do the following
     + Sell all the torpedos since we don't have a torpedo launcher
     + Sell any Laser Tower Mk1/Mk2s and all the mines
         - We don't need those for now and we can always buy them later
+    + Max out on Light Swarm Missiles
     + Max out on flares
 4. Buy 1 Apprentice Service crew member
-5. Confirm the order
+5. Select Settings and do the following
+    + Under "Missile Launchers", select "Light Swarm Missile" for the Tracking Launcher
+      - Missiles do not automatically get loaded into the launcher, even if they are
+        the only missiles on the ship.  This is a common step that gets skipped when
+        equipping ships with missile launchers.
+6. Confirm the order
 
 For the Kestral, open the "Upgrade / Repair" screen and do the following:
 
@@ -1044,7 +1051,11 @@ Complete the objectives after the loadstone has been aquired.
 
 ## Hatikvah's Trade Revolution | Mission 4 | Wayward Drones
 
+Nothing new here, completed the objectives.
+
 ## Hatikvah's Trade Revolution | Mission 5 | The Hand-Off
+
+Nothing new here, completed the objectives.
 
 ## Hatikvah's Trade Revolution | Mission 6 | Breakdown
 
